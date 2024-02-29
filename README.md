@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am all ears**
 
-- 📫 Want to know more about me **[MY RESUME.pdf](https://github.com/anshuchowdaryalapati/anshuchowdaryalapati/files/14435961/LING.RESUME.pdf)
+- 📫 Want to know more about me **[RESUME](https://drive.google.com/file/d/1CGg6qkGgy9uNunPAVI8lD8CnHQonLI0N/view?usp=sharing)
 **
 
 <h3 align="left">Connect with me:</h3>
