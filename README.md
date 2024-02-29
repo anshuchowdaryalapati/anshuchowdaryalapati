@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data Scientist from India</h3>
 <div align="center"> <img src="https://github.com/anshuchowdaryalapati/anshuchowdaryalapati/assets/141652539/e9a8ea5d-abbd-4be6-a7c7-c09c0f56faae"> </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/anshuchowdaryalapati/anshuchowdaryalapati/assets/141652539/eb19b80c-911e-4146-9353-f15083040380">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuchowdaryalapati&label=Profile%20views&color=0e75b6&style=flat" alt="anshuchowdaryalapati" /> </p>
 
 - 🔭 I’m currently working on **my final year project, I'm eager to apply my knowledge in the real-world industry, ready for hands-on contributions**
