@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuchowdaryalapati&label=Profile%20views&color=0e75b6&style=flat" alt="anshuchowdaryalapati" /> </p>
 
-- 🔭 I’m currently working on **my final year project, I'm eager to apply my knowledge in the real-world industry, ready for hands-on contributions**
+- 🔭 I’m currently working as **DATA ENGINEER @COGNIZANT**
 
-- 🌱 I’m currently learning **Generative AI and Prompt Engineering**
+- 🌱 I'm eagerly acquiring knowledge on **Generative AI and Prompt Engineering**
 
 - 💬 Ask me about **data analysis, image processing with deep learning models.**
 
@@ -21,11 +21,11 @@
 - 📫 Want to know more about me [RESUME](https://drive.google.com/file/d/1CGg6qkGgy9uNunPAVI8lD8CnHQonLI0N/view?usp=sharing)
 
   ## TECHNICAL SKILLS
-- **Programming**: Python . SQL
+- **Programming**: Python . R . SQL . MongoDB
 - **Databases**: MySQL
-- **Platforms & Tools**: Excel . Power BI . Tableau . GitHub . StreamLit . JupyterNotebooks . Anaconda . Pytorch . Tensorflow . Langchain . Pandas . numpy . matplotlib . sklearn . Canva . Flask .
-- **Technical Knowledge** : Machine Learning . Deep Learning . Data Science . SQL . Data Analysis . Problem solving . Data visualization . Statistics . Computer Vision
-- **Soft Skills** : Communication . Leadership .
+- **Platforms & Tools**: Excel . Power BI . Tableau . GitHub . StreamLit . Pytorch . Tensorflow . Langchain . Pandas .  Numpy . matplotlib . sklearn .  Flask . Keras . PySpark . Azure Data Factory . AWS . LINUX OS
+- **Technical Knowledge** : Problem solving . Computer Vision . Neural Networks . Big Data Analytics . Azure Cloud . Data Warehouse . Shell Scripting . Convolution neural network . Data Pre-processing
+- **Soft Skills** : Communication . Leadership 
 
 </p>
 
