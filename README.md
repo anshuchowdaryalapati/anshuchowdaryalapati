@@ -20,6 +20,8 @@
 
 - 📫 Want to know more about me [RESUME](https://drive.google.com/file/d/1CGg6qkGgy9uNunPAVI8lD8CnHQonLI0N/view?usp=sharing)
 
+- 🔭 My Portfolio [Portfolio](https://alapatidevianusha.my.canva.site/alapatidevianusha)
+
   ## TECHNICAL SKILLS
 - **Programming**: Python . R . SQL . MongoDB
 - **Databases**: MySQL
