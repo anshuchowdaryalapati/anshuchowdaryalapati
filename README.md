@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuchowdaryalapati&label=Profile%20views&color=0e75b6&style=flat" alt="anshuchowdaryalapati" /> </p>
 
-- 🔭 I’m currently working as **DATA ENGINEER @COGNIZANT**
+- 🔭 I’m currently working as **AI ENGINEER @COGNIZANT**
 
 - 🌱 I'm eagerly acquiring knowledge on **Generative AI and Prompt Engineering**
 
 - 💬 Ask me about **data analysis, image processing with deep learning models.**
 
-- 👯 I have enhanced my knowledge in the feild of data science **Python, SQL, Tableau, Power BI, Excel, and Azure cloud.**
+- 👯 I have enhanced my knowledge in the feild of data science **Python, SQL, LLMOps, and Azure cloud.**
 
 - 📫 How to reach me **alapatidevianusha@gmail.com**
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alapati-devi-anusha-b6b877225/)
@@ -23,7 +23,7 @@
 - 🔭 My Portfolio [Portfolio](https://alapatidevianusha.my.canva.site/alapatidevianusha)
 
   ## TECHNICAL SKILLS
-- **Programming**: Python . R . SQL . MongoDB
+- **Programming**: Python . SQL 
 - **Databases**: MySQL
 - **Platforms & Tools**: Excel . Power BI . Tableau . GitHub . StreamLit . Pytorch . Tensorflow . Langchain . Pandas .  Numpy . matplotlib . sklearn .  Flask . Keras . PySpark . Azure Data Factory . AWS . LINUX OS
 - **Technical Knowledge** : Problem solving . Computer Vision . Neural Networks . Big Data Analytics . Azure Cloud . Data Warehouse . Shell Scripting . Convolution neural network . Data Pre-processing
