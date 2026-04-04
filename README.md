@@ -23,11 +23,15 @@
 - 🔭 My Portfolio [Portfolio](https://alapatidevianusha.my.canva.site/alapatidevianusha)
 
   ## TECHNICAL SKILLS
-- **Programming**: Python . SQL 
-- **Databases**: MySQL
-- **Platforms & Tools**: Excel . Power BI . Tableau . GitHub . StreamLit . Pytorch . Tensorflow . Langchain . Pandas .  Numpy . matplotlib . sklearn .  Flask . Keras . PySpark . Azure Data Factory . AWS . LINUX OS
-- **Technical Knowledge** : Problem solving . Computer Vision . Neural Networks . Big Data Analytics . Azure Cloud . Data Warehouse . Shell Scripting . Convolution neural network . Data Pre-processing
-- **Soft Skills** : Communication . Leadership 
+Languages: Python , SQL
+Generative AI & LLMs: RAG, Hybrid RAG (BM25 + Dense Vector + RRF), Agentic AI, Multi-Agent Orchestration, Model Context Protocol (MCP), Agent
+to-Agent (A2A) Protocol, Prompt Engineering, LLM Fine-Tuning (LoRA, QLoRA, PEFT), Cross-Encoder Reranking, Retrieval Evaluation (RAGAS) 
+ML & Deep Learning: Neural Networks, CNNs, Transformers, Model Training & Evaluation, ML Algorithms, Keras,Data Augmentation, Image Classification
+Search & Retrieval: ChromaDB, BM25, Dense Vector Search, Semantic Retrieval, Reciprocal Rank Fusion (RRF), Cross-Encoder Reranking 
+LLMs & Embedding Models: Mistral-7B, LLaVA (Vision), BGE-small-en-v1.5, all-MiniLM-L6-v2 (Sentence-Transformers) 
+Frameworks & Libraries: LangChain, LangGraph, Hugging Face Transformers, PyTorch, Sentence-Transformers, Ollama, PyMuPDF, Pydantic, Tavily 
+Backend & Deployment: FastAPI, Docker, Streamlit, GitHub Actions (CI/CD) 
+MLOps & Tracking: MLflow, Weights & Biases , Google Colab (GPU Training)
 
 </p>
 
